@@ -1,0 +1,1 @@
+This repo has my solutions to developer challenges I have encountered.
